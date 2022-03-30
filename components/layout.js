@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from './layout.module.css'
 import Image from 'next/image'
-import Link from 'next/Link'
+import Link from 'next/link'
 import utilStyles from '../styles/utils.module.css'
 
 const name = 'Benjamín Gautier'
